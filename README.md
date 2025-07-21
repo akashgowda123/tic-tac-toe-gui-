@@ -26,7 +26,23 @@ The game detects wins, draws, and prevents invalid moves.
 
 ## ▶️ How to Run
 
- **Clone the repository:**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/akashgowda123/tic-tac-toe-gui.git
    cd tic-tac-toe-gui
+
+2. Run the script:
+    ```bash
+      python tic_tac_toe.py
+
+3.📁 File Structure
+
+       tic_tac_toe-gui/
+      ├── tic_tac_toe.py     # Main game script
+      ├── README.md          # Project documentation
+
+       
+    
+
+
+      
