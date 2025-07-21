@@ -35,7 +35,8 @@ The game detects wins, draws, and prevents invalid moves.
     ```bash
       python tic_tac_toe.py
 
-3.📁 File Structure
+3. File Structure:
+   ```bash
 
        tic_tac_toe-gui/
       ├── tic_tac_toe.py     # Main game script
